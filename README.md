@@ -1,6 +1,8 @@
 # tps-shooter-demo
-Third person shooter demo in Unreal Engine 4 and C++. Demonstrating various gameplay mechanics, basic AI, animations and HUD.
+Third person shooter demo in Unreal Engine 4 and C++ based on Gamedev.tv's course. Demonstrating various gameplay mechanics, basic AI, animations and HUD.
 
-- Third person mechanics i.e movement, camera, projectiles, animations, basic behaviors.
-- Animation and Character Controllers.
-- 
+THIS REP ONLY CONTAINS SOURCE CODE.
+
+- Third person mechanics i.e movement, camera, projectiles, animations, behavior trees.
+- Animation, Character and AI Controllers.
+- Code is contained within the Public and Private folders.
