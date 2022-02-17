@@ -5,4 +5,3 @@ THIS REP ONLY CONTAINS SOURCE CODE.
 
 - Third person mechanics i.e movement, camera, projectiles, animations, behavior trees.
 - Animation, Character and AI Controllers.
-- Code is contained within the Public and Private folders.
